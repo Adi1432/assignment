@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 10px;
+}
+body::-webkit-scrollbar {
+  width: 0;
+}
+.horizontalImageContainer::-webkit-scrollbar {
+  width: 0;
+}
+.Dishbgi {
+  background-image: url("https://images7.alphacoders.com/417/thumb-1920-417966.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top;
+}
